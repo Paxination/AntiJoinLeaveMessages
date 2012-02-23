@@ -1,0 +1,5 @@
+**AntiJoinLeaveMessages**
+
+Really simple: it removes all join/quit messages if a player joins/quits.
+
+Only works if you're an OP or you have the permissions "AJLM.hidequit" and "AJLM.hidejoin"
